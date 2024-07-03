@@ -1,7 +1,9 @@
 .home_page {
-  pad: 60px;
+  /* pad: 60px; */
 
   display: flex;
+  align-items: center;
+  justify-content: center;
   flex-direction: column;
 }
 
@@ -602,11 +604,12 @@
 }
 
 /* SPAC PRODUCT */
-.home_page {
+
+/* .home_page {
   margin-left: 270px;
   width: 1320px;
   height: auto;
-}
+} */
 
 .box .spac_product_frame {
   position: relative;
