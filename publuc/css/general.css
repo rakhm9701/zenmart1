@@ -295,7 +295,7 @@ p {
 /* FOOTER */
 .footer_frame {
   position: relative;
-  padding: 90 0 20px;
+  padding: 90px 0 20px;
   width: 100%;
   height: auto;
   display: flex;
